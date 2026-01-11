@@ -14,7 +14,7 @@
 // 0 <= strs[i].length <= 100
 // strs[i] is made up of lowercase English letters.
   
-class GroupAnagram {
+class Day_108_GroupAnagram {
     public List<List<String>> groupAnagrams(String[] strs) {
         Map<String, List<String>> map = new HashMap<>();
         for(String word : strs){
