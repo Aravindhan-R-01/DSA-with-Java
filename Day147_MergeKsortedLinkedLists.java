@@ -27,7 +27,7 @@
  * }
  */
 
-class MergeKsortedLinkedLists {
+class Day147_MergeKsortedLinkedLists {
     public ListNode mergeKLists(ListNode[] lists) {
         List<Integer> nodes = new ArrayList<>();
         ListNode res = new ListNode(0);
