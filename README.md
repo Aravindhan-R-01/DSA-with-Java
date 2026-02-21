@@ -1,5 +1,5 @@
 DSA with Java: 🚀
-A dedicated space where I document my daily progress in Data Structures and Algorithms. What started as a #1000DaysOfCode challenge has now become a lifelong habit of problem-solving.
+A dedicated space where I document my daily progress in Data Structures and Algorithms. What started as a #100DaysOfCode challenge has now become a lifelong habit of problem-solving.
 
 About me:
 Experienced Manager making a strategic pivot to Software sector.
